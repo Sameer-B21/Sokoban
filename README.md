@@ -1,2 +1,2 @@
 # Sokoban
-A more object-oriented and fundamental version of version. Made purely for gaining experience and practice my skills.
+A more object-oriented and fundamental version of sokoban. Made solely for the purpose of honing my skills and gaining experience.
